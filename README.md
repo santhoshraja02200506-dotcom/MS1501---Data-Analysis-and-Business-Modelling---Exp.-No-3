@@ -146,6 +146,9 @@ R-squared (R2) Score: 0.9736
 
 Predicted Sales for Advertising = 70 Lakhs: 55.14 Crores
 ```
+<img width="1024" height="765" alt="image" src="https://github.com/user-attachments/assets/f6e86e2e-cde7-4c9d-bcb2-fd8c4fc92577" />
+
+```
 
 ##  Result
 Thus, Simple Linear Regression on the advertising and sales dataset was executed successfully.
